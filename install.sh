@@ -1,6 +1,7 @@
 # install necessary library
-pip install pyqt5
-pip install Pillow 
-pip install scipy 
-pip install dominate 
-pip install opencv-python
+pip3 install pyqt5
+pip3 install Pillow 
+pip3 install scipy 
+pip3 install dominate 
+pip3 install opencv-python
+pip3 install jittor
